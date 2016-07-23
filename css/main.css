@@ -1,0 +1,23 @@
+
+h1{
+  text-align: center;
+  color: pink;
+}
+  .div1{
+  column-gap:2em;
+	column-rule: 2px;
+  columns:300px 3;
+  margin-bottom: auto;
+  height: 50%;}
+
+  .div2{
+  column-gap:2em;
+  column-rule: 2px;
+  columns:300px 3;
+  margin-bottom: auto;
+  height: 50%;}
+.button1{
+  weight: 45px;
+  height: 45px;
+  color: blue;
+}
